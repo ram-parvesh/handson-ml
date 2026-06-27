@@ -1,0 +1,142 @@
+2026-06-28 01:22:46,716 - INFO - Starting the training process...
+2026-06-28 01:23:23,241 - INFO - Starting the training process...
+2026-06-28 01:23:28,903 - INFO - Starting the training process...
+2026-06-28 01:23:53,369 - INFO - Starting the training process...
+2026-06-28 01:25:12,045 - INFO - Starting the training process...
+2026-06-28 01:25:12,057 - INFO - Training Logistic Regression...
+2026-06-28 01:25:12,079 - INFO - Logistic Regression Accuracy: 0.7725
+2026-06-28 01:25:12,081 - INFO - Logistic Regression Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.77      0.91      0.83       253
+           1       0.77      0.54      0.63       147
+
+    accuracy                           0.77       400
+   macro avg       0.77      0.72      0.73       400
+weighted avg       0.77      0.77      0.76       400
+
+2026-06-28 01:25:12,082 - INFO - Logistic Regression Confusion Matrix:
+[[230  23]
+ [ 68  79]]
+2026-06-28 01:25:12,082 - INFO - Training Support Vector Machine...
+2026-06-28 01:25:21,174 - INFO - Support Vector Machine Accuracy: 0.765
+2026-06-28 01:25:21,176 - INFO - Support Vector Machine Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.77      0.89      0.83       253
+           1       0.75      0.54      0.63       147
+
+    accuracy                           0.77       400
+   macro avg       0.76      0.72      0.73       400
+weighted avg       0.76      0.77      0.76       400
+
+2026-06-28 01:25:21,176 - INFO - Support Vector Machine Confusion Matrix:
+[[226  27]
+ [ 67  80]]
+2026-06-28 01:25:21,176 - INFO - Training Random Forest...
+2026-06-28 01:25:21,334 - INFO - Random Forest Accuracy: 0.98
+2026-06-28 01:25:21,336 - INFO - Random Forest Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.98      0.99      0.98       253
+           1       0.99      0.96      0.97       147
+
+    accuracy                           0.98       400
+   macro avg       0.98      0.98      0.98       400
+weighted avg       0.98      0.98      0.98       400
+
+2026-06-28 01:25:21,337 - INFO - Random Forest Confusion Matrix:
+[[251   2]
+ [  6 141]]
+2026-06-28 01:25:36,278 - INFO - Starting the training process...
+2026-06-28 01:25:36,285 - INFO - Training Logistic Regression...
+2026-06-28 01:25:36,303 - INFO - Logistic Regression Accuracy: 0.7725
+2026-06-28 01:25:36,305 - INFO - Logistic Regression Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.77      0.91      0.83       253
+           1       0.77      0.54      0.63       147
+
+    accuracy                           0.77       400
+   macro avg       0.77      0.72      0.73       400
+weighted avg       0.77      0.77      0.76       400
+
+2026-06-28 01:25:36,306 - INFO - Logistic Regression Confusion Matrix:
+[[230  23]
+ [ 68  79]]
+2026-06-28 01:25:36,306 - INFO - Training Support Vector Machine...
+2026-06-28 01:25:43,693 - INFO - Starting the training process...
+2026-06-28 01:25:43,700 - INFO - Training Logistic Regression...
+2026-06-28 01:25:43,719 - INFO - Logistic Regression Accuracy: 0.7725
+2026-06-28 01:25:43,721 - INFO - Logistic Regression Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.77      0.91      0.83       253
+           1       0.77      0.54      0.63       147
+
+    accuracy                           0.77       400
+   macro avg       0.77      0.72      0.73       400
+weighted avg       0.77      0.77      0.76       400
+
+2026-06-28 01:25:43,722 - INFO - Logistic Regression Confusion Matrix:
+[[230  23]
+ [ 68  79]]
+2026-06-28 01:25:43,722 - INFO - Training Support Vector Machine...
+2026-06-28 01:25:45,562 - INFO - Support Vector Machine Accuracy: 0.765
+2026-06-28 01:25:45,564 - INFO - Support Vector Machine Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.77      0.89      0.83       253
+           1       0.75      0.54      0.63       147
+
+    accuracy                           0.77       400
+   macro avg       0.76      0.72      0.73       400
+weighted avg       0.76      0.77      0.76       400
+
+2026-06-28 01:25:45,565 - INFO - Support Vector Machine Confusion Matrix:
+[[226  27]
+ [ 67  80]]
+2026-06-28 01:25:45,565 - INFO - Training Random Forest...
+2026-06-28 01:25:45,734 - INFO - Random Forest Accuracy: 0.98
+2026-06-28 01:25:45,737 - INFO - Random Forest Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.98      0.99      0.98       253
+           1       0.99      0.96      0.97       147
+
+    accuracy                           0.98       400
+   macro avg       0.98      0.98      0.98       400
+weighted avg       0.98      0.98      0.98       400
+
+2026-06-28 01:25:45,737 - INFO - Random Forest Confusion Matrix:
+[[251   2]
+ [  6 141]]
+2026-06-28 01:25:52,754 - INFO - Support Vector Machine Accuracy: 0.765
+2026-06-28 01:25:52,756 - INFO - Support Vector Machine Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.77      0.89      0.83       253
+           1       0.75      0.54      0.63       147
+
+    accuracy                           0.77       400
+   macro avg       0.76      0.72      0.73       400
+weighted avg       0.76      0.77      0.76       400
+
+2026-06-28 01:25:52,757 - INFO - Support Vector Machine Confusion Matrix:
+[[226  27]
+ [ 67  80]]
+2026-06-28 01:25:52,757 - INFO - Training Random Forest...
+2026-06-28 01:25:52,912 - INFO - Random Forest Accuracy: 0.98
+2026-06-28 01:25:52,915 - INFO - Random Forest Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.98      0.99      0.98       253
+           1       0.99      0.96      0.97       147
+
+    accuracy                           0.98       400
+   macro avg       0.98      0.98      0.98       400
+weighted avg       0.98      0.98      0.98       400
+
+2026-06-28 01:25:52,915 - INFO - Random Forest Confusion Matrix:
+[[251   2]
+ [  6 141]]
